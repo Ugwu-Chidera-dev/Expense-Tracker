@@ -1,0 +1,16 @@
+[
+    {
+        "expense_id": "0001",
+        "expense_description": "Bread",
+        "expense_amount": 5.0,
+        "expense_category": "Food",
+        "expense_date": "10/05/2026"
+    },
+    {
+        "expense_id": "2081",
+        "expense_description": "Sprite",
+        "expense_amount": 10.0,
+        "expense_category": "Beverages",
+        "expense_date": "10/05/2026"
+    }
+]
